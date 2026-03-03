@@ -9,5 +9,5 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// Import your pages...
+
 
